@@ -3,5 +3,5 @@
 | **Nombre**  | **Alias** | **Ubicación** |
 | ------------- | ------------- | ------------- |
 | Ernesto Zanza  | Alfa  | Venezuela |
-| Alberto Toledo  | Bravo  | Venezuela |
-| Alejandro Arreaza  | Charlie  | Venezuela |
+| Alejandro Arreaza  | Bravo  | Venezuela |
+| Alberto Toledo  | Charlie  | Venezuela |
